@@ -6,7 +6,7 @@ Volunteer matching for Orange County. A curated directory of local organizations
  
 ## What it does
  
-- Browsable, searchable directory of 20+ OC nonprofits and community organizations
+- Browsable, searchable directory of 20+ nonprofits and community organizations
 - AI-assisted matching based on skills, availability, and interests
 - Organization dashboard for managing volunteer inquiries (coming soon)
 ## Tech stack
