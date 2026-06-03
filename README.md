@@ -1,6 +1,6 @@
 # Neighbor
  
-Volunteer matching for Orange County. A curated directory of local organizations paired with an AI-assisted matching layer that connects people to the right place to show up.
+Volunteer matching for global networks. A curated directory of local organizations paired with an AI-assisted matching layer that connects people to the right place to show up.
  
 ---
  
@@ -23,17 +23,10 @@ Volunteer matching for Orange County. A curated directory of local organizations
 - Supabase account or local instance
 ### Install
  
-```bash
+```
 git clone https://github.com/sunrise-atelier/neighbor
 cd neighbor
 npm install
-```
- 
-### Environment variables
- 
-```bash
-cp .env.example .env.local
-# fill in your Supabase URL and anon key
 ```
  
 ### Run locally
